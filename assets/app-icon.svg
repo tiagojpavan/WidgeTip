@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title id="title">WidgeTip — ícone do aplicativo Android</title>
+  <defs><clipPath id="shape"><rect width="108" height="108" rx="22"/></clipPath></defs>
+  <g clip-path="url(#shape)">
+    <path fill="#07182E" d="M0 0H108V108H0Z"/>
+    <path fill="#0B3066" d="M0 65 Q54 16 108 65 L108 108 L0 108 Z"/>
+    <g transform="translate(54 54) scale(.231) translate(-180 -180)" fill="none">
+      <path stroke="#FFFFFF" stroke-width="17" stroke-linecap="square" stroke-linejoin="round" d="M 275,124 L 275,110 C 275,92 263,81 245,81 L 82,81 C 63,81 53,93 53,111 L 53,209 C 53,228 65,237 83,237 L 192,237"/>
+      <path stroke="#FFFFFF" stroke-width="17" stroke-linecap="round" d="M 101,143 L 153,143"/>
+      <path stroke="#FFFFFF" stroke-width="17" stroke-linecap="round" d="M 101,180 L 180,180"/>
+      <path fill="#338AFA" d="M 223,143 H 301 C 309,143 315,149 315,157 C 315,165 309,171 301,171 H 277 V 268 C 277,276 271,282 263,282 C 255,282 249,276 249,268 V 171 H 223 C 215,171 209,165 209,157 C 209,149 215,143 223,143 Z"/>
+    </g>
+  </g>
+</svg>

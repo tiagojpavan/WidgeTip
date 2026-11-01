@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/brand-mark.svg" alt="Símbolo gráfico de apresentação do WidgeTip" width="80">
+<img src="assets/app-icon.svg" alt="Símbolo gráfico de apresentação do WidgeTip" width="80">
 
 # WidgeTip
 
@@ -59,7 +59,7 @@ Consulte as [informações preliminares](privacidade.html). A Política de Priva
 
 ## Sobre este repositório
 
-Este repositório tem finalidade **exclusivamente institucional e de divulgação**. O código HTML/CSS da página pública pode ser visualizado, mas **não é o código-fonte do aplicativo Android**. Não contém projetos Android, Gradle, SDKs privados, tokens de acesso ou históricos de desenvolvimento.
+Este repositório tem finalidade **exclusivamente institucional e de divulgação**. A página utiliza o ícone visual do app e uma captura real da interface para apresentação pública do projeto. O código HTML/CSS da página pública pode ser visualizado, mas **não é o código-fonte do aplicativo Android**. Não contém projetos Android, Gradle, SDKs privados, tokens de acesso ou históricos de desenvolvimento.
 
 > **Marcas de terceiros:** WidgeTip é um projeto independente, sem afiliação, patrocínio ou endosso de TikTok, Twitch, Kick, LivePix ou Pixie.gg. Marcas e logotipos mencionados pertencem aos seus titulares.
 
