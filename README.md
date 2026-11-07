@@ -27,16 +27,19 @@ O **WidgeTip** é um aplicativo Android em desenvolvimento, criado para ajudar s
 | Crie sua identidade visual | Acompanhe a comunidade |
 | :--- | :--- |
 | **Cenas e camadas:** composição visual em orientação vertical e horizontal. | **Leitura de chat por voz:** recurso opcional e experimental para comentários públicos. |
-| **Widgets e overlays:** ajustes de posição, escala e aparência. | **TikTok, Twitch e Kick:** conexões de chat experimentais, não oficiais e sujeitas a alterações. |
+| **Widgets e overlays:** ajustes de posição, escala e aparência. | **TikTok, Twitch e Kick:** chat e categorias de eventos em prévias experimentais, com disponibilidade dependente dos provedores. |
 | **Modo Câmera e Modo Jogo:** sobreposições para diferentes formas de transmitir. | **LivePix e Pixie.gg:** incorporação de widgets web compatíveis por endereço. |
-| **Mídia:** texto, relógio, imagens, GIF e WebP animado. | **Backup:** importação/exportação de cenas e configurações com proteção por senha. |
+| **Mídia:** texto, relógio, imagens, GIF e WebP animado. | **Backup:** importação/exportação de cenas e configurações com proteção por senha; Ajuda com 24 assuntos para iniciantes. |
 
 ## Disponibilidade
 
-- **Fase:** Beta 2 RC3.2, com testes controlados.
+- **Base estável de referência:** Beta 2 RC3.2.
+- **Em preparação:** RC3.3, que reúne melhorias aprovadas em laboratórios privados de eventos, voz e Ajuda; a integração ainda precisa dos testes finais.
 - **Sistema mínimo:** Android 10 (API 29).
 - **Distribuição pública:** ainda não anunciada.
 - **Planos e preços:** não anunciados publicamente.
+
+**O que está sendo integrado à RC3.3:** eventos TikTok e Twitch conforme mensagens recebidas, chat Kick em tempo real experimental, avisos opcionais por KickBot e Ajuda mais simples. A validação de um laboratório não significa lançamento público nem funcionamento garantido em todas as plataformas.
 
 Esta página é informativa. Não disponibilizamos APKs nem links de download não verificados.
 
@@ -47,6 +50,9 @@ Ainda não há lançamento público confirmado.
 
 **O WidgeTip faz transmissão ao vivo?**  
 Não. O app é complementar à ferramenta responsável pela transmissão.
+
+**Os avisos de seguidores e presentes são garantidos?**  
+Não. Os anúncios dependem dos sinais disponíveis em cada plataforma. Na Kick, alguns avisos usam mensagens do KickBot, um serviço externo opcional; comandos de teste não comprovam eventos reais.
 
 **A integração com TikTok, Twitch e Kick é oficial?**  
 Não. As funcionalidades de chat são experimentais e independentes das respectivas plataformas.
