@@ -26,20 +26,20 @@ O **WidgeTip** é um aplicativo Android em desenvolvimento, criado para ajudar s
 
 | Crie sua identidade visual | Acompanhe a comunidade |
 | :--- | :--- |
-| **Cenas e camadas:** composição visual em orientação vertical e horizontal. | **Leitura de chat por voz:** recurso opcional e experimental para comentários públicos. |
-| **Widgets e overlays:** ajustes de posição, escala e aparência. | **TikTok, Twitch e Kick:** chat e categorias de eventos em prévias experimentais, com disponibilidade dependente dos provedores. |
+| **Cenas e camadas:** variações, grupos, áreas seguras, troca rápida, transições e modelos em vertical/horizontal. | **Leitura de chat por voz:** recurso opcional e experimental para comentários públicos. |
+| **Widgets e overlays:** editor de precisão, alinhamento e sete fontes com efeitos opcionais. | **TikTok, Twitch e Kick:** chat e categorias de eventos em prévias experimentais, com disponibilidade dependente dos provedores. |
 | **Modo Câmera e Modo Jogo:** sobreposições para diferentes formas de transmitir. | **LivePix e Pixie.gg:** incorporação de widgets web compatíveis por endereço. |
-| **Mídia:** texto, relógio, imagens, GIF e WebP animado. | **Backup:** importação/exportação de cenas e configurações com proteção por senha; Ajuda com 24 assuntos para iniciantes. |
+| **Mídia:** texto, relógio, imagens, GIF e WebP animado. | **Backup:** exportação protegida e prévia de diferenças antes da restauração; Ajuda com 37 assuntos. |
 
 ## Disponibilidade
 
-- **Base estável de referência:** Beta 2 RC3.2.
-- **Em preparação:** RC3.3, que reúne melhorias aprovadas em laboratórios privados de eventos, voz e Ajuda; a integração ainda precisa dos testes finais.
+- **Referência estável anterior:** Beta 2 RC3.3.
+- **Próximo beta fechado:** RC3.4 consolidada no código privado; o novo APK ainda depende de build e testes integrados.
 - **Sistema mínimo:** Android 10 (API 29).
 - **Distribuição pública:** ainda não anunciada.
 - **Planos e preços:** não anunciados publicamente.
 
-**O que está sendo integrado à RC3.3:** eventos TikTok e Twitch conforme mensagens recebidas, chat Kick em tempo real experimental, avisos opcionais por KickBot e Ajuda mais simples. A validação de um laboratório não significa lançamento público nem funcionamento garantido em todas as plataformas.
+**Recursos previstos na RC3.4:** Estúdio de cenas, simulador offline de chat, editor inteligente, diagnóstico da LIVE, fontes e efeitos avançados, perfis locais e backup com prévia. A aprovação do código não equivale à homologação do APK nem a funcionamento garantido em plataformas externas.
 
 Esta página é informativa. Não disponibilizamos APKs nem links de download não verificados.
 
