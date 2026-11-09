@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/app-icon.svg" alt="Símbolo gráfico de apresentação do WidgeTip" width="80">
+<img src="assets/app-icon.svg" alt="Ícone do WidgeTip" width="80">
 
 # WidgeTip
 
@@ -10,63 +10,72 @@
 
 ![Status](https://img.shields.io/badge/status-Beta%20fechado-8d6bdb?style=flat-square) ![Android](https://img.shields.io/badge/Android-10%2B-24b5b9?style=flat-square) ![Código Android](https://img.shields.io/badge/c%C3%B3digo%20Android-privado-45516d?style=flat-square)
 
-**[Conheça os recursos](#recursos)** · **[Sobre o beta](#disponibilidade)** · **[Perguntas frequentes](#perguntas-frequentes)**
+**[Site oficial](https://tiagojpavan.github.io/WidgeTip/)** · **[Novidades RC3.4](https://tiagojpavan.github.io/WidgeTip/#novidades)** · **[Perguntas frequentes](https://tiagojpavan.github.io/WidgeTip/#faq)**
 
 </div>
 
 ---
 
-## O que é o WidgeTip?
+## Conheça o WidgeTip
 
-O **WidgeTip** é um aplicativo Android em desenvolvimento, criado para ajudar streamers e criadores de conteúdo a personalizar visualmente suas transmissões. Reúne ferramentas de composição de cenas, widgets web e funcionalidades complementares de interação.
+O **WidgeTip** é um aplicativo Android em desenvolvimento para ajudar criadores de conteúdo a montar cenas, posicionar widgets e acompanhar a interação durante transmissões ao vivo.
 
-**O WidgeTip não inicia nem transmite uma LIVE sozinho.** Você utiliza o aplicativo ou serviço de transmissão da plataforma e, quando compatível, adiciona seus elementos e sobreposições.
+O WidgeTip **não inicia nem transmite uma LIVE sozinho**: ele complementa o aplicativo de transmissão, conforme a compatibilidade do Android e da plataforma utilizada.
 
-## Recursos
+## Recursos apresentados
 
-| Crie sua identidade visual | Acompanhe a comunidade |
+| Personalize a transmissão | Prepare e acompanhe a LIVE |
 | :--- | :--- |
-| **Cenas e camadas:** variações, grupos, áreas seguras, troca rápida, transições e modelos em vertical/horizontal. | **Leitura de chat por voz:** recurso opcional e experimental para comentários públicos. |
-| **Widgets e overlays:** editor de precisão, alinhamento e sete fontes com efeitos opcionais. | **TikTok, Twitch e Kick:** chat e categorias de eventos em prévias experimentais, com disponibilidade dependente dos provedores. |
-| **Modo Câmera e Modo Jogo:** sobreposições para diferentes formas de transmitir. | **LivePix e Pixie.gg:** incorporação de widgets web compatíveis por endereço. |
-| **Mídia:** texto, relógio, imagens, GIF e WebP animado. | **Backup:** exportação protegida e prévia de diferenças antes da restauração; Ajuda com 37 assuntos. |
+| **Widgets e overlays:** texto, relógio, imagem, GIF/WebP animados e conteúdo web. | **Leitura por voz:** comentários e determinadas categorias de eventos, conforme a conexão experimental. |
+| **Cenas na vertical e horizontal:** camadas e controle da composição. | **TikTok, Twitch e Kick:** recursos de chat experimentais, não oficiais e sujeitos a limitações. |
+| **Modo Câmera e Modo Jogo:** sobreposições para diferentes formas de transmitir. | **LivePix e Pixie.gg:** widgets web compatíveis adicionados pelo usuário. |
+| **Backup .wpix com senha:** cópia de cenas e configurações compatíveis. | **Ajuda no aplicativo:** orientações sobre permissões, widgets, cenas e transmissão. |
+
+## Novidades em preparação — Beta 2 RC3.4
+
+O código da RC3.4 reúne novas funcionalidades desenvolvidas e documentadas, **ainda sujeitas à compilação e à homologação do APK integrado**. Não devem ser interpretadas como funções já liberadas publicamente.
+
+**Estúdio de cenas:** variações, grupos de widgets, áreas seguras, seletor flutuante opcional no Modo Jogo, transições suaves e modelos Gameplay, Just Chatting, Minimalista e TikTok vertical.
+
+**Ferramentas de edição e preparação:**
+- Simulador offline de comentários e eventos *fictícios*, para testar sem LIVE.
+- Editor inteligente com ímã, guias, bloqueio, Desfazer/Refazer e distribuição.
+- Diagnóstico da sessão com informações de rede, conexão, TTS e eventos.
+- Sete fontes para texto e relógio, além de efeitos visuais para texto.
+- Até oito perfis locais de transmissão; não conectam canais automaticamente.
+- Prévia das diferenças antes de restaurar um backup criptografado. A confirmação continua substituindo os dados do backup, sem mesclagem seletiva.
 
 ## Disponibilidade
 
-- **Referência estável anterior:** Beta 2 RC3.3.
-- **Próximo beta fechado:** RC3.4 consolidada no código privado; o novo APK ainda depende de build e testes integrados.
+- **Fase:** beta fechado.
+- **Referência anterior:** Beta 2 RC3.3.
+- **RC3.4:** código preparado; APK integrado ainda sujeito a testes e aprovação.
 - **Sistema mínimo:** Android 10 (API 29).
-- **Distribuição pública:** ainda não anunciada.
-- **Planos e preços:** não anunciados publicamente.
+- **Download público / Play Store:** ainda não anunciado.
+- **Planos e preços públicos:** ainda não anunciados.
 
-**Recursos previstos na RC3.4:** Estúdio de cenas, simulador offline de chat, editor inteligente, diagnóstico da LIVE, fontes e efeitos avançados, perfis locais e backup com prévia. A aprovação do código não equivale à homologação do APK nem a funcionamento garantido em plataformas externas.
-
-Esta página é informativa. Não disponibilizamos APKs nem links de download não verificados.
+Não há APK público disponibilizado neste repositório.
 
 ## Perguntas frequentes
 
-**O aplicativo está disponível na Play Store?**  
-Ainda não há lançamento público confirmado.
+**O WidgeTip transmite sozinho?** Não. É uma ferramenta complementar ao aplicativo de transmissão.
 
-**O WidgeTip faz transmissão ao vivo?**  
-Não. O app é complementar à ferramenta responsável pela transmissão.
+**O simulador gera avisos reais?** Não. Os eventos são fictícios e locais.
 
-**Os avisos de seguidores e presentes são garantidos?**  
-Não. Os anúncios dependem dos sinais disponíveis em cada plataforma. Na Kick, alguns avisos usam mensagens do KickBot, um serviço externo opcional; comandos de teste não comprovam eventos reais.
+**Os perfis conectam automaticamente ao TikTok, Twitch ou Kick?** Não. São configurações locais; na RC3.4 não fazem parte do backup .wpix v1.
 
-**A integração com TikTok, Twitch e Kick é oficial?**  
-Não. As funcionalidades de chat são experimentais e independentes das respectivas plataformas.
+**As conexões com TikTok, Twitch e Kick são oficiais?** Não. A leitura de chat e avisos são experimentais e dependem da disponibilidade dos serviços. Alguns avisos da Kick podem depender de um bot externo opcional.
 
-**O código-fonte do Android está disponível aqui?**  
-Não. Este repositório contém **somente os arquivos públicos do site e desta apresentação**. O aplicativo e seus laboratórios continuam em repositórios privados separados.
+**Existe restauração seletiva de backups?** Não. Há uma prévia de diferenças, mas a restauração confirmada é integral.
 
-**E quanto à privacidade?**  
-Consulte as [informações preliminares](privacidade.html). A Política de Privacidade e os Termos de Uso definitivos ainda dependem de revisão antes de uma distribuição pública/comercial.
+**O código Android está disponível aqui?** Não. Este repositório contém somente os arquivos públicos do site e da apresentação. O desenvolvimento Android continua em repositórios privados separados.
+
+**E a privacidade?** Leia as [informações preliminares](privacidade.html). Os termos e a Política de Privacidade definitivos dependem de revisão antes do lançamento público.
 
 ## Sobre este repositório
 
-Este repositório tem finalidade **exclusivamente institucional e de divulgação**. A página utiliza o ícone visual do app e uma captura real da interface para apresentação pública do projeto. O código HTML/CSS da página pública pode ser visualizado, mas **não é o código-fonte do aplicativo Android**. Não contém projetos Android, Gradle, SDKs privados, tokens de acesso ou históricos de desenvolvimento.
+Este repositório é **institucional e de divulgação**. Seus arquivos HTML, CSS e artes são públicos; **não incluem o código-fonte Android**, projetos de desenvolvimento, credenciais ou dados de testes privados. A imagem promocional do celular é baseada em capturas da interface do aplicativo.
 
-> **Marcas de terceiros:** WidgeTip é um projeto independente, sem afiliação, patrocínio ou endosso de TikTok, Twitch, Kick, LivePix ou Pixie.gg. Marcas e logotipos mencionados pertencem aos seus titulares.
+> **Marcas de terceiros:** o WidgeTip é independente, sem afiliação, patrocínio ou endosso de TikTok, Twitch, Kick, LivePix ou Pixie.gg. As respectivas marcas pertencem aos seus titulares.
 
-© 2026 WidgeTip. Apresentação de projeto em desenvolvimento.
+© 2026 WidgeTip. Projeto em desenvolvimento.

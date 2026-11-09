@@ -88,3 +88,23 @@
   .hero-product-visual img {width:min(100%,310px);}
   .hero-description {line-height:1.61;}
 }
+/* Novidades RC3.4 — apresentação pública, sem alterar o restante do tema */
+.whatsnew-section{padding-top:64px}
+.whatsnew-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.whatsnew-panel{min-width:0;overflow:hidden;border:1px solid rgba(111,149,202,.22);border-radius:22px;background:linear-gradient(155deg,rgba(23,44,75,.88),rgba(17,25,46,.94) 72%);padding:34px 34px 32px}
+.whatsnew-panel:nth-child(2){background:linear-gradient(155deg,rgba(35,35,77,.76),rgba(17,25,46,.94) 72%)}
+.whatsnew-head{padding-bottom:23px;border-bottom:1px solid rgba(163,182,224,.14)}
+.whatsnew-eyebrow{display:block;color:#70d5e9;font-size:.68rem;letter-spacing:.13em;font-weight:760;margin-bottom:12px}
+.whatsnew-head h3{font-size:1.7rem;letter-spacing:-.035em;margin-bottom:10px}
+.whatsnew-head p{color:#adbcd2;font-size:.88rem;line-height:1.7}
+.whatsnew-list{list-style:none;padding:0;margin:22px 0 0;display:grid;gap:18px}
+.whatsnew-list li{position:relative;padding-left:19px;color:#adbcd2;font-size:.86rem;line-height:1.72}
+.whatsnew-list li::before{content:"";position:absolute;width:6px;height:6px;left:0;top:.66em;background:#65c8e8;border-radius:50%;box-shadow:0 0 0 3px rgba(64,169,225,.09)}
+.whatsnew-panel:nth-child(2) .whatsnew-list li::before{background:#b49dff;box-shadow:0 0 0 3px rgba(139,115,235,.09)}
+.whatsnew-list strong{color:#f1f6ff;font-weight:700}
+.whatsnew-disclaimer{margin-top:21px;color:#97a9c5;font-size:.8rem;line-height:1.7;max-width:970px}
+.whatsnew-disclaimer strong{color:#dceaff}
+.discover-more{margin-top:17px;font-size:.83rem;font-weight:710;color:#81dce9}
+.discover-more a:hover{text-decoration:underline}
+@media(max-width:780px){.whatsnew-grid{grid-template-columns:1fr}.whatsnew-panel{padding:28px}.whatsnew-section{padding-top:40px}.nav-links a:nth-child(2),.nav-links a:nth-child(3){display:none}}
+@media(max-width:600px){.whatsnew-panel{padding:24px 21px;border-radius:17px}.whatsnew-head h3{font-size:1.48rem}.whatsnew-list{gap:15px}.whatsnew-list li{font-size:.84rem}.nav-links a:nth-child(4){display:none}}
