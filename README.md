@@ -34,7 +34,7 @@ O **WidgeTip** é um aplicativo Android em beta fechado que permite montar widge
 ## Status e evolução
 
 - **RC3.6:** referência estável de **código** com WidgeTip LIVE, grupos ao vivo, sexto tema, molduras de imagem e recuperação seletiva `.wpix`. Código estável não é o mesmo que distribuição de APK homologado.
-- **RC3.7:** candidata **em homologação**, ainda não promovida. A UX Simplification LAB simplifica o menu Adicionar Widget, reorganiza a Ajuda em cinco seções pesquisáveis, melhora banners e editores, otimiza pontos de WebView/LiveControl e remove a função própria de captura rápida baseada em Acessibilidade.
+- **RC3.7:** código **promovido a snapshot estável** após homologação funcional da UX LAB no OnePlus 7 Pro e no OnePlus 7T. O APK de release build 21 ainda exige compilação, assinatura e confirmação de instalação. A UX Simplification LAB simplifica o menu Adicionar Widget, reorganiza a Ajuda em cinco seções pesquisáveis, melhora banners e editores, otimiza pontos de WebView/LiveControl e remove a função própria de captura rápida baseada em Acessibilidade.
 - **Disponibilidade:** beta fechado; sem APK público, Play Store ou preços públicos anunciados.
 - **Compatibilidade mínima prevista:** Android 10 (API 29).
 
@@ -44,7 +44,7 @@ O catálogo de adição exibe tipos de widgets em uma coluna, começando por **L
 
 Os banners de imagens permitem gerenciar itens individuais, ajustar enquadramento, ordenação e duração. A captura rápida própria — botão flutuante, serviço de Acessibilidade e telas de configuração — foi retirada da candidata. O Modo Jogo mantém a permissão de sobreposição necessária aos widgets.
 
-**Essas mudanças ainda aguardam validação final em hardware e de um APK de release RC3.7.**
+**O código dessas mudanças foi homologado na UX LAB nos dois aparelhos. O APK identificado como RC3.7/build 21 ainda depende de compilação, assinatura e validação próprias.**
 
 ## Perguntas frequentes
 
